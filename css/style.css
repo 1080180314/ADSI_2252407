@@ -15,6 +15,23 @@ h2.font-akaya {
     font-family: 'Akaya Telivigala', Arial, Helvetica, sans-serif;
     font-size: 2.3em;
 }
+.font-consideracion {
+    font-family: 'Advertencia', cursive;
+    font-size: 4em;
+}
+.font-negrita {
+    font-weight: bold;
+}
+.fuente-italica {
+    font-size: 32pt;
+    font-style: italic;
+}
+span.resaltado {
+    font-size: 2em;
+    color: limegreen;
+    font-weight: bold;
+    font-family: 'advertencia'; cursive;
+}
 /* akaya-telivigala-regular - latin */
 @font-face {
     font-family: 'Akaya Telivigala';
