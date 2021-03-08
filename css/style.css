@@ -13,6 +13,7 @@ h2.font-oswald {
 }
 h2.font-akaya {
     font-family: 'Akaya Telivigala', Arial, Helvetica, sans-serif;
+    font-size: 3em;
 }
 /* akaya-telivigala-regular - latin */
 @font-face {
